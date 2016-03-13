@@ -1,0 +1,1 @@
+$("#click").click(function(){var e=$("#overlay-menu"),n=$("#mclick .menu-icon"),o=$("#menu-burger");e.hasClass("open")?(e.removeClass("open"),n.removeClass("open"),o.removeClass("open")):e.addClass("open")});
